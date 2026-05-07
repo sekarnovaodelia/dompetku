@@ -1,0 +1,20 @@
+{
+  "appId": "com.dompetku.app",
+  "appName": "DompetKu",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "launchAutoHide": true,
+      "backgroundColor": "#10b981",
+      "showSpinner": false
+    },
+    "Network": {
+      "notifyOnDisconnect": true,
+      "notifyOnConnect": true
+    }
+  }
+}
