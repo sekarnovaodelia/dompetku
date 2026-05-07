@@ -61,4 +61,4 @@ temp/
 # =========================
 # Coverage (kalau testing)
 # =========================
-coverage/
+coverage
